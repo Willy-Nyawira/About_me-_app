@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Willy Nyawira</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+    Software Developer | Oracle Apps Developer\n\n
+
+    Contact:\n
+    +254792782402 · nyawiramwangi394@gmail.com\n
+    Tatu City, Nairobi, Kenya\n\n
+
+    I am an experienced software developer with expertise in Oracle databases, Java programming, C#, and cloud computing on AWS.\n
+    I specialize in developing and optimizing enterprise solutions with a focus on automation and process efficiency. Proficient in Oracle Applications and ERP modules, I work to improve business operations through scalable, impactful solutions.\n\n
+
+    I am passionate about using technology to achieve the UN Sustainable Development Goals (SDGs) and have successfully led projects addressing global challenges.\n\n
+
+    Key Skills:\n
+    - Oracle Apps Development\n
+    - Backend Development (C# and Java)\n
+    - Restful APIs\n
+    - Cloud Computing (AWS)\n
+    - Databases and Business Intelligence\n
+    - Data Analysis and Problem Solving\n
+    - Version Control and Teamwork\n\n
+
+    Professional Experience:\n
+    Software Developer | Oracle Apps Developer\n
+    E&amp;M Technology House Limited (Jan 2024 - Present)\n\n
+
+    Key Accomplishments:\n
+    - Developed and implemented Oracle applications, improving operational efficiency and reporting.\n
+    - Administered user roles and security in Oracle E-Business Suite and Newgen.\n
+    - Led the development of SACCO Agents and Insurance Hub systems using C#.NET.\n
+    - Developed a Fixed Assets Management application using Spring Boot.\n
+    - Deployed backend APIs on AWS EC2, optimizing performance with auto-scaling and load balancing.\n
+    - Enhanced database performance and security through optimization and encryption.\n\n
+
+    Education:\n
+    - Bachelor of Science in Actuarial Science, University of Nairobi (2017-2021) - Second Class Upper Honors\n
+    - Corporate Finance Institute: Business Intelligence &amp; Data Analysis, Financial Management &amp; Valuation Analysis\n\n
+
+    Professional Links:\n
+    GitHub: https://github.com/Willy-Nyawira\n
+    LinkedIn: https://www.linkedin.com/in/willynyawira/\n
+</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
+</resources>
